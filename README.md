@@ -1,3 +1,5 @@
-# 🌐 personal-website
+# 🌐 WhoIsDanix.github.io
 
-My personal website. For now it's kinda empty :/
+### This is my personal website. It's kinda empty for now :/
+
+Visit website: [click me](https://whoisdanix.github.io)
